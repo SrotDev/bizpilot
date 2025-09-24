@@ -1,0 +1,10 @@
+High-level sprint plan (mapped to hours)
+0.5h — Setup & scaffold (Vite + React + TS) + Tailwind config + Git
+0.5h — Base layout: Navbar, Footer, global styles, React Router
+1.0h — Landing page MVP: Hero, features, pricing, CTA (Framer Motion animations)
+1.0h — Auth & profile mocks (email + OAuth placeholders, onboarding)
+1.0h — Onboarding wizard (3-step) + local idea generation (mock)
+1.5h — Idea exploration dashboard: cards, detail page, charts, comparison mode
+0.75h — Premium & collaboration UI (gated UI, team invite mock)
+0.5h — Polish: responsiveness, accessibility, animations
+0.25h — Build, test, README, deploy notes
